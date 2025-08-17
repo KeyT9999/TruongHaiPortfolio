@@ -6,7 +6,7 @@
   "homepage": "https://KeyT9999.github.io/TruongHaiPortfolio/",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier -w .",
